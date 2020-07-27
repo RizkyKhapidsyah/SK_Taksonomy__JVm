@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="max_result_setting_item">
+    <item>20 entri</item>
+    <item>25 entri</item>
+    <item>30 entri</item>
+    <item>35 entri</item>
+    <item>40 entri</item>
+    <item>45 entri</item>
+    <item>50 entri</item>
+    <item>100 entri</item>
+</string-array>
+<string-array name="max_result_setting_value">
+    <item>20</item>
+    <item>25</item>
+    <item>30</item>
+    <item>35</item>
+    <item>40</item>
+    <item>45</item>
+    <item>50</item>
+    <item>100</item>
+</string-array>
+</resources>
